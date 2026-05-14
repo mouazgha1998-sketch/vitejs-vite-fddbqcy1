@@ -1,0 +1,15 @@
+{
+  "short_name": "خدمات بنش",
+  "name": "دليل خدمات مدينة بنش",
+  \"icons": [
+    {
+      "src": "/icons.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2980b9",
+  "background_color": "#ffffff"
+}
